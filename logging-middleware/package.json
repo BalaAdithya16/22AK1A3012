@@ -1,0 +1,10 @@
+{
+  "name": "affordmed-logging-middleware",
+  "version": "1.0.0",
+  "description": "Logging package for Affordmed evaluation",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": ["logging"],
+  "author": "",
+  "license": "ISC"
+}
